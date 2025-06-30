@@ -104,12 +104,12 @@ cd simple-bank-app
 
 # src/main/resources/application.properties
 
-spring.datasource.url=jdbc:mysql://localhost:3306/bankapp
-spring.datasource.username=your_mysql_username
-spring.datasource.password=your_mysql_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.thymeleaf.cache=false
+-spring.datasource.url=jdbc:mysql://localhost:3306/bankapp
+-spring.datasource.username=your_mysql_username
+-spring.datasource.password=your_mysql_password
+-spring.jpa.hibernate.ddl-auto=update
+-spring.jpa.show-sql=true
+-spring.thymeleaf.cache=false
 
 ---
 
