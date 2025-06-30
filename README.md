@@ -73,6 +73,10 @@ simpleBankApp/
 ### 💻 Dashboard  
 ![Dashboard](screenshots/dashboard.png)
 
+### 🗄️ Database Schema
+
+![Database Schema](screenshots/database.png)
+
 ---
 
 ## ⚙️ How to Run Locally
