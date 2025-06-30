@@ -118,9 +118,21 @@ cd simple-bank-app
 ./mvnw spring-boot:run
 Visit: (http://localhost:8080)
 
+---
 
+👤 User Flow
+📝 Register a new account.
 
+🔐 Login using credentials.
 
+💵 Use dashboard to Deposit or Withdraw.
 
+📊 See real-time balance.
 
+🧾 Transactions are saved in the DB.
 
+---
+
+🙋‍♂️ Author
+👨‍💻 Pradeep Kumar (Golu)
+🔗 GitHub:[ @your-username](https://github.com/pradeepkumar823)
